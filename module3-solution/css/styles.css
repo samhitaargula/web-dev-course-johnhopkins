@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;
+  	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h3,h6{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.navbar{
+	background-color: #DCDCDC;
+}
+
+#nav-list{
+	background-color: #F5F5F5;
+}
+
+#text-dump{
+	background-color: #DCDCDC;
+	padding: 2px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
