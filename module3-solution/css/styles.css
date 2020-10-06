@@ -15,9 +15,13 @@ h3,h6{
 	background-color: #F5F5F5;
 }
 
+#title{
+	font-size: 22px;
+}
 #text-dump{
 	background-color: #DCDCDC;
-	padding: 2px;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding: 5px;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-top: 15px;
 }
